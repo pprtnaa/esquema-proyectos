@@ -6,55 +6,30 @@ Aplicacion de control para artistas en Quetzaltenango
 
 Breve historia del proyecto
 ---------------------------
-
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
-
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
-
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+En Quetzaltenango es la segunda ciudad de Guatemala, famosa por ver nacer a muchos artistas los cuales han trascendido en el ambito nacional e internacional. La casa de la cultura es quien vela por mantener activas esas memorias a traves de formacion al publico general. A lo largo del tiempo se han perdido en el olvido variedad de artistas, es por eso que con la nueva gestion del director de esta entidad, ha decidido modernizar y actualizar los directorios. Esta decisión se tomo por la actual demanda que exigen los artistas, el principal elemento es tener un espacio donde ellos puedan promocionarse, en donde una persona pueda acceder a su informacion, esto servirá para recopilar todo tipo de información y estadísticas para que ellos puedan tomar decisiones. El sistema tiene que estar diseñado para ser transitorio, pues hay que dejar abierta la posibilidad de ampliación.
 
 
 Empresa a la que se dirige el sistema
 -------------------------------------
-
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
-
+La casa de la cultura de Quetzaltenango es un centro que se encarga de difusión, acceso y formación de los eventos culturales pertenecientes a la cuidad. Actualmente cuentan con 4 trabajadores los cuales son encargados de las diferentes áreas de Gestion de Proyectos, comunicacion y secretaria. Esta entidad gestiona todos los eventos y lleva la administración de los principales centros de cultura tales como, Casa Noj, Teatro Municipal, Salón Municipal, Centro Intercultural, entre otros. 
+Su principal función es promover la cultura en Quetzaltenango, para que las personas puedan conocer un poco mas sobre el contexto cultural del lugar.
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
-
+ El sistema servirá para administrar de forma adecuada la información y así proporcionar datos confiables sobre la cultura de Quetzaltenango. 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
+Objetivo general:
+- Diseñar un software para administrar las operaciones administrativas de la casa de la cultura, la cual pueda almacenar a gran cantidad de usuarios.
 
-* Specific
+Objetivos especificos
+- Establecer informacion clara, oportuna y confiable mediante el sistema.
 
-  * Específicos
+- Poder reducir el tiempo de inscripción de los artistas a el directorio de la casa de la cultura en un 50%.
 
-* Measurable
+- Proporcionar estadísticas a los administradores para ver quién es el artista que la población prefiere.
 
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+- Dar información a la población sobre los alquileres de los centros culturales, esto para poder disminuir el tiempo de trámite en un 90%. 

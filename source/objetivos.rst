@@ -23,9 +23,11 @@ Objetivos del proyecto
 ----------------------
 
 Objetivo general:
+----------------------
 - Diseñar un software para administrar las operaciones administrativas de la casa de la cultura, la cual pueda almacenar a gran cantidad de usuarios.
 
 Objetivos especificos:
+----------------------
 - Establecer informacion clara, oportuna y confiable mediante el sistema.
 
 - Poder reducir el tiempo de inscripción de los artistas a el directorio de la casa de la cultura en un 50%.

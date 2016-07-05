@@ -1,7 +1,7 @@
-"Nombre del proyecto"
+"Aplicacion de control para artistas en Quetzaltenango"
 ====================
 
-Aplicacion de control para artistas en Quetzaltenango
+
 
 
 Breve historia del proyecto
@@ -15,9 +15,8 @@ La casa de la cultura de Quetzaltenango es un centro que se encarga de difusión
 Su principal función es promover la cultura en Quetzaltenango, para que las personas puedan conocer un poco mas sobre el contexto cultural del lugar.
 
 Misión del proyecto
--------------------
-
- El sistema servirá para administrar de forma adecuada la información y así proporcionar datos confiables sobre la cultura de Quetzaltenango. 
+----------------------
+El sistema servirá para administrar de forma adecuada la información y así proporcionar datos confiables sobre la cultura de Quetzaltenango. 
 
 Objetivos del proyecto
 ----------------------

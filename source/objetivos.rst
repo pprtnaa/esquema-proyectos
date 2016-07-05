@@ -1,7 +1,7 @@
 "Nombre del proyecto"
 ====================
 
-Sustituya con el nombre del proyecto.
+Aplicacion de control para artistas en Quetzaltenango
 
 
 Breve historia del proyecto

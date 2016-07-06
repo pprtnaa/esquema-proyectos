@@ -1,4 +1,4 @@
-El proyecto
+﻿El proyecto
 ===========
 Descripción General
 -------------------
@@ -15,17 +15,18 @@ La aplicacion podra tener la opcion de filtrar por categorias de artistas, categ
 
 
 Modulos
-^^^^^^^
+-------
 Modulos Administrador:
-^^^^^^^
-* Entradas: en este modulo servira para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicacion.
-* Multimedia: este servira para tener organizadas las carpetas de imagenes, musica, documentos, etc
-* Reseña: aqui el administrador podra colocar las reseñas principales en 250 caracteres, con fecha de publicacion.
-* Usuarios: este modulo tendra la lista de los artistas  registrados en el sistemas, asi mismo aqui podra dar de alta a los cuales esten en lista de espera.
-* Estadisticas: aqui podra elegir los reportes que desee ver, como ejemplo: artista mas visitado, artista mas contactado, artista con menos actividad, los principales eventos, entre otros.
-* Paginas: el administrador podra crear nuevas paginas en donde desee publicar informacion nueva.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* **Entradas:** en este modulo servira para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicacion.
+* **Multimedia:** este servira para tener organizadas las carpetas de imagenes, musica, documentos, etc
+* **Reseña:** aqui el administrador podra colocar las reseñas principales en 250 caracteres, con fecha de publicacion.
+* **Usuarios:** este modulo tendra la lista de los artistas  registrados en el sistemas, asi mismo aqui podra dar de alta a los cuales esten en lista de espera.
+* **Estadisticas:** aqui podra elegir los reportes que desee ver, como ejemplo: artista mas visitado, artista mas contactado, artista con menos actividad, los principales eventos, entre otros.
+* **Paginas:** el administrador podra crear nuevas paginas en donde desee publicar informacion nueva.
 
 Modulo Administrador y artistas
-^^^^^^^
-* Perfil: este servira para poder actualizar la informacion del registrado, todo dependiendo de los privilegios otorgados por la aplicacion.
-* Eventos: se podra crear eventos con el nombre, descripcion, lugar, fecha, precio y ser calendarizados, asi mismo poder modificarlos o eliminarlos.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* **Registro:** en este modulo el artista podra ser registrado en la pagina llenando la informacion requerida
+* **Perfil:** este servira para poder actualizar la informacion del registrado, todo dependiendo de los privilegios otorgados por la aplicacion.
+* **Eventos:** se podra crear eventos con el nombre, descripcion, lugar, fecha, precio y ser calendarizados, asi mismo poder modificarlos o eliminarlos.

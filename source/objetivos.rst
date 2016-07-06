@@ -1,7 +1,6 @@
+﻿Nombre del proyecto:
+========================================================
 "Aplicacion de control para artistas en Quetzaltenango"
-====================
-
-
 
 
 Breve historia del proyecto

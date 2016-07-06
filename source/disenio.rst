@@ -18,10 +18,10 @@
 .. figure:: _static/Multimedia.png
    :align: center
 
-**Caso de uso MODULO RESEÑA**
+**Caso de uso MODULO RESENIA**
 -------------------------------
 - En este modulo el administrador tendra 250 caracteres para colocar la descripcion de hechos que quiera que el usuario visitante vea sobre los acontecimientos historicos.
-.. figure:: _static/Reseña.png
+.. figure:: _static/Resenia.png
    :align: center
 
 **Caso de uso MODULO USUARIO**

@@ -3,25 +3,18 @@
 
 **CASOS DE USO**
 ==================
-**Administrador**
------------------
 
 **Caso de uso MODULO ENTRADA**
 -------------------------------
-- Este modulo las entradas es un tipo de contenido, en donde se pueden agregar fotografias, videos, documentos. Para que funcione tiene que tener asignada una categoria para poder ser asignada a una pagina.
+- Este modulo las entradas es un tipo de contenido, en donde se pueden agregar fotografias, videos, documentos. Para que funcione tiene que tener asignada una categoria para poder ser asignada a una pagina. Este modulo solo lo podra acceder el administrador
 .. figure:: _static/Entrada.png
    :align: center
 
 **Caso de uso MODULO MULTIMEDIA**
 -------------------------------
-- En este modulo servira subir al servidor y guardar las imagenes, videos, archivos, documentos. Estas archivos se guardaran en las carpetas especificas.
-.. figure:: _static/Multimedia.png
-   :align: center
+- En este modulo servira subir al servidor y guardar las imagenes, videos, archivos, documentos. Estas archivos se guardaran en las carpetas especificas. Este modulo solo lo podra acceder el administrador.
 
-**Caso de uso MODULO RESENIA**
--------------------------------
-- En este modulo el administrador tendra 250 caracteres para colocar la descripcion de hechos que quiera que el usuario visitante vea sobre los acontecimientos historicos.
-.. figure:: _static/Resenia.png
+.. figure:: _static/Multimedia.png
    :align: center
 
 **Caso de uso MODULO USUARIO**
@@ -42,8 +35,6 @@
 .. figure:: _static/Paginas.png
    :align: center
 
-**Artista**
------------
 
 **Caso de uso MODULO REGISTRO**
 -------------------------------

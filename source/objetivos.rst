@@ -1,7 +1,5 @@
-﻿Nombre del proyecto:
-========================================================
-"Aplicacion de control para artistas en Quetzaltenango"
-
+﻿"Aplicacion de control para artistas en Quetzaltenango"
+=======================================================
 
 Breve historia del proyecto
 ---------------------------
@@ -15,21 +13,10 @@ Su principal función es promover la cultura en Quetzaltenango, para que las per
 
 Misión del proyecto
 ----------------------
-El sistema servirá para administrar de forma adecuada la información y así proporcionar datos confiables sobre la cultura de Quetzaltenango. 
+Proporcionar de forma adecuada la informacion y  datos precisos, claros y  confiables sobre la cultura de Quetzaltenango, para la toma de decisiones en su ambito laboral. 
 
 Objetivos del proyecto
 ----------------------
-
-Objetivo general:
-----------------------
-- Diseñar un software para administrar las operaciones administrativas de la casa de la cultura, la cual pueda almacenar a gran cantidad de usuarios.
-
-Objetivos especificos:
-----------------------
-- Establecer informacion clara, oportuna y confiable mediante el sistema.
-
-- Poder reducir el tiempo de inscripción de los artistas a el directorio de la casa de la cultura en un 50%.
-
-- Proporcionar estadísticas a los administradores para ver quién es el artista que la población prefiere.
-
-- Dar información a la población sobre los alquileres de los centros culturales, esto para poder disminuir el tiempo de trámite en un 90%. 
+- Duplicar el directorio actual de los artistas.
+- Tener un minimo de 1000 artistas registrados en el plazo de un año.
+- Estudiar las estadisticas de los primeros 3 meses para aplicar estrategias de acercamiento a los habitantes de Quetzaltenango.

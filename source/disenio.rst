@@ -14,44 +14,44 @@
 -------------------------------
 - En este modulo servira subir al servidor y guardar las imagenes, videos, archivos, documentos. Estas archivos se guardaran en las carpetas especificas. Este modulo solo lo podra acceder el administrador.
 
-.. figure:: _static/Multimedia.png
+.. figure:: CasosDeUso/Multimedia.png
    :align: center
 
 **Caso de uso MODULO USUARIO**
 -------------------------------
 - El administrador podra ingresar a cualquier usuario o artista que quiera ser registrado en la web. Ademas aqui es donde podran ser aceptados los nuevos usuarios registrados
-.. figure:: _static/Usuarios.png
+.. figure:: CasosDeUso/Usuarios.png
    :align: center
 
 **Caso de uso MODULO ESTADISTICAS**
 -----------------------------------
 - Aqui el administrador podra filtrar las estadisticas segun sean requeridas
-.. figure:: _static/Estadisticas.png
+.. figure:: CasosDeUso/Estadisticas.png
    :align: center
 
 **Caso de uso MODULO PAGINAS**
 -------------------------------
 - Este modulo sirve para crear paginas nuevas (Secciones) en las cuales se puede asignar las entradas creadas para introducir contendo nuevo.
-.. figure:: _static/Paginas.png
+.. figure:: CasosDeUso/Paginas.png
    :align: center
 
 
 **Caso de uso MODULO REGISTRO**
 -------------------------------
 - En este modulo el usuario subira su informacion para crear su perfil y ser aceptada por el administrador.
-.. figure:: _static/Registro.png
+.. figure:: CasosDeUso/Registro.png
    :align: center
 
 **Caso de uso MODULO PERFIL**
 -------------------------------
 - Este modulo se utiliza cuando el artista quiere modificar su informacion o eliminar su perfil.
-.. figure:: _static/Perfil.png
+.. figure:: CasosDeUso/Perfil.png
    :align: center
 
 **Caso de uso MODULO EVENTOS**
 -------------------------------
 - En este modulo se crearan los nuevos eventos para ser publicados en el contenido web
-.. figure:: _static/Eventos.png
+.. figure:: CasosDeUso/Eventos.png
    :align: center
 
 

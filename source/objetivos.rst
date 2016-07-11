@@ -3,7 +3,7 @@
 
 Breve historia del proyecto
 ---------------------------
-En Quetzaltenango es la segunda ciudad de Guatemala, famosa por ver nacer a muchos artistas los cuales han trascendido en el ambito nacional e internacional. La casa de la cultura es quien vela por mantener activas esas memorias a traves de formacion al publico general. A lo largo del tiempo se han perdido en el olvido variedad de artistas, es por eso que con la nueva gestion del director de esta entidad, ha decidido modernizar y actualizar los directorios. Esta decisión se tomo por la actual demanda que exigen los artistas, el principal elemento es tener un espacio donde ellos puedan promocionarse, en donde una persona pueda acceder a su informacion, esto servirá para recopilar todo tipo de información y estadísticas para que ellos puedan tomar decisiones. El sistema tiene que estar diseñado para ser transitorio, pues hay que dejar abierta la posibilidad de ampliación.
+La casa de la cultura es quien vela por mantener activas las memorias culturales a traves de formacion al publico general. A lo largo del tiempo se han perdido en el olvido variedad de artistas,  es por eso que con la nueva gestion del director de proyectos Ernesto Tucios, ha decidido modernizar y actualizar los directorios. Esta decisión se tomo por la actual demanda que exigen los artistas, el principal elemento es tener un espacio donde ellos puedan promocionarse, en donde una persona pueda acceder a su informacion, esto servirá para recopilar todo tipo de información y estadísticas para que ellos puedan tomar decisiones. El sistema tiene que estar diseñado para ser transitorio, pues hay que dejar abierta la posibilidad de ampliación.
 
 
 Empresa a la que se dirige el sistema

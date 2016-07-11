@@ -7,7 +7,7 @@
 **Caso de uso MODULO ENTRADA**
 -------------------------------
 - Este modulo las entradas es un tipo de contenido, en donde se pueden agregar fotografias, videos, documentos. Para que funcione tiene que tener asignada una categoria para poder ser asignada a una pagina. Este modulo solo lo podra acceder el administrador
-.. figure:: _static/Entrada.png
+.. figure:: CasosDeUso/Entrada.png
    :align: center
 
 **Caso de uso MODULO MULTIMEDIA**

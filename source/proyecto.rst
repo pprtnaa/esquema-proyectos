@@ -16,11 +16,13 @@ La aplicacion podra tener la opcion de filtrar por categorias de artistas, categ
 
 Modulos
 -------
-* **Entradas:** en este modulo servira para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicacion. Ademas en este modulo el administrador tendra 250 caracteres para colocar la descripcion de hechos que quiera que el usuario visitante vea sobre los acontecimientos historicos.
+* **Entradas:** en este modulo servira para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicacion. Ademas en este modulo el administrador tendra 250 caracteres para colocar la descripcion de hechos que quiera que el usuario visitante vea sobre los acontecimientos historicos. En este modulo se administran las categorias.
+ Puede ver el  diagrama de caso de uso :ref:`ref_entrada`
 * **Multimedia:** este servira para tener organizadas las carpetas de imagenes, musica, documentos, etc
 * **Usuarios:** este modulo tendra la lista de los artistas  registrados en el sistemas, asi mismo aqui podra dar de alta a los cuales esten en lista de espera.
 * **Estadisticas:** aqui podra elegir los reportes que desee ver, como ejemplo: artista mas visitado, artista mas contactado, artista con menos actividad, los principales eventos, entre otros.
 * **Paginas:** el administrador podra crear nuevas paginas en donde desee publicar informacion nueva.
+* **Comentarios** en este modulo se administraran todos los comentarios nuevos que sean publicados en cualquier perfil, evento, o entrada de la pagina.
 * **Registro:** en este modulo el artista podra ser registrado en la pagina llenando la informacion requerida
 * **Perfil:** este servira para poder actualizar la informacion del registrado, todo dependiendo de los privilegios otorgados por la aplicacion.
 * **Eventos:** se podra crear eventos con el nombre, descripcion, lugar, fecha, precio y ser calendarizados, asi mismo poder modificarlos o eliminarlos.

@@ -65,7 +65,7 @@ Clases
 Diagramas de clases y de sus distintas actividades, si fuese necesario.
 
 Diagrama de BD
---------------
+===============
 - A continuacion esta el diseño de la base de datos:
 .. figure:: CasosDeUso/BD.png
    :align: center

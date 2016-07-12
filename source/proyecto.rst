@@ -2,27 +2,40 @@
 ===========
 Descripción General
 -------------------
-El proyecto consiste en sistematizar los datos para obtener informacion importante, habran tre tipos de usuarios que son: Administrador, Artista, Visitante.
+El proyecto consiste en sistematizar los datos para obtener información importante, habrá tres tipos de usuarios que son: Administrador, Artista, Visitante.
 
-El administrador tendra todos los privilegios de la aplicacion. Este podra ingresar, actualizar y borrar contenido de la web. Sus principales funciones serasn en  dar de alta a los artistas que se registren en la aplicacion, programa las capsulas de informacion sobre las reseñas historicas, moderar los comentarios, crear eventos, poder administrar la informacion sobre los centros culturales, tener acceso a las estadisticas que proporcione el sistema.
+**El administrador** tendrá todos los privilegios de la aplicación. Este podrá ingresar, actualizar y borrar contenido de la web. Sus principales funciones serán en dar de alta a los artistas que se registren en la aplicación, programa las capsulas de información sobre las reseñas históricas, moderar los comentarios, crear eventos, poder administrar la información sobre los centros culturales, tener acceso a las estadísticas que proporcione el sistema.
 
-El artista tendra que ser dado de alta por el administrador del sistema y  sera la persona que se publicara su informacion creando un perfil para ser visto por los visitantes, podra crear eventos, calificar y comentar.
+**El artista** tendrá que ser dado de alta por el administrador del sistema y será la persona que se publicara su información creando un perfil para ser visto por los visitantes, podrá crear eventos, calificar y comentar.
 
-El usuario visitante podra acceder a toda la informacion publica del sitio, podra ver la informacion de los artistas dados de alta, contactarse con los perfiles de los que llamen su atencion, calificar al perfil del artista, ver los eventos calendarizados, comentar sobre lo que piensa de los eventos.
+**El usuario** visitante podrá acceder a toda la información publica del sitio, podrá ver la información de los artistas dados de alta, contactarse con los perfiles de los que llamen su atención, calificar al perfil del artista, ver los eventos calendarizados, comentar sobre lo que piensa de los eventos.
 
-La aplicacion podra tener la opcion de filtrar por categorias de artistas, categorias de eventos, puntuacion mas alta, por fechas de eventos, entre otras.
+La aplicación podrá tener la opción de filtrar por categorías de artistas, categorías de eventos, puntuación mas alta, por fechas de eventos, entre otras.
 
 
 
-Modulos
+Módulos
 -------
-* **Entradas:** en este modulo servira para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicacion. Ademas en este modulo el administrador tendra 250 caracteres para colocar la descripcion de hechos que quiera que el usuario visitante vea sobre los acontecimientos historicos. En este modulo se administran las categorias.
- Puede ver el  diagrama de caso de uso :ref:`ref_entrada`
-* **Multimedia:** este servira para tener organizadas las carpetas de imagenes, musica, documentos, etc
-* **Usuarios:** este modulo tendra la lista de los artistas  registrados en el sistemas, asi mismo aqui podra dar de alta a los cuales esten en lista de espera.
-* **Estadisticas:** aqui podra elegir los reportes que desee ver, como ejemplo: artista mas visitado, artista mas contactado, artista con menos actividad, los principales eventos, entre otros.
-* **Paginas:** el administrador podra crear nuevas paginas en donde desee publicar informacion nueva.
-* **Comentarios** en este modulo se administraran todos los comentarios nuevos que sean publicados en cualquier perfil, evento, o entrada de la pagina.
-* **Registro:** en este modulo el artista podra ser registrado en la pagina llenando la informacion requerida
-* **Perfil:** este servira para poder actualizar la informacion del registrado, todo dependiendo de los privilegios otorgados por la aplicacion.
-* **Eventos:** se podra crear eventos con el nombre, descripcion, lugar, fecha, precio y ser calendarizados, asi mismo poder modificarlos o eliminarlos.
+* **1. Entradas:** en este módulo servirá para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicación. Además, en este módulo el administrador tendrá 250 caracteres para colocar la descripción de hechos que quiera que el usuario visitante vea sobre los acontecimientos históricos. En este módulo se administran las categorías.
+ Puede ver el diagrama de caso de uso :ref:`ref_entrada`
+
+* **2. Multimedia:** este servirá para tener organizadas las carpetas de imágenes, música, documentos, etc.
+ Puede ver el diagrama de caso de uso :ref:`ref_multimedia`
+
+* **3. Estadisticas:** aquí podrá elegir los reportes que desee ver, este módulo solo puede ser visto por el administrador como ejemplo: artista más visitado, artista más contactado, artista con menos actividad, los principales eventos, entre otros.
+ Puede ver el diagrama de caso de uso :ref:`ref_estadisticas`
+
+* **4. Paginas:** el administrador podrá crear nuevas páginas en donde desee publicar información nueva.
+ Puede ver el diagrama de caso de uso :ref:`ref_paginas`
+
+* **5. Comentarios** en este módulo se administrarán todos los comentarios nuevos que sean publicados en cualquier perfil, evento, o entrada de la página.
+ Puede ver el diagrama de caso de uso :ref:`ref_comentarios`
+
+* **6.Eventos:** se podrá crear eventos con el nombre, descripción, lugar, fecha, precio y ser calendarizados, así mismo poder modificarlos o eliminarlos.
+ Puede ver el diagrama de caso de uso :ref:`ref_eventos`
+
+* **7. Artistas:** este módulo tendrá la lista de los artistas  registrados en el sistemas, así mismo aquí podrá dar de alta a los cuales estén en lista de espera, el artista podrá manejar desde este módulo su perfil, esto quiere decir que si desea modificar información inscrita pues hacerlo aquí.
+ Puede ver el diagrama de caso de uso :ref:`ref_artistas`
+
+* **8. Usuario**: Este módulo el administrador podrá crear más cuentas administradoras del sistema, para ser accedida por otros usuarios.
+Puede ver el diagrama de caso de uso :ref:`ref_usuarios`

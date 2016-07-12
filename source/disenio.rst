@@ -1,58 +1,62 @@
-﻿**Diseño de la aplicacíon**
+﻿**Diseño de la aplicación**
 ****************************
 
-**Casos de uso*
+**Casos de uso**
 ==================
 .. _ref_entrada:
-**Caso de uso Modulo Entrada**
+**1. Caso de uso Modulo Entrada**
 -------------------------------
-- Este modulo las entradas es un tipo de contenido, en donde se pueden agregar fotografias, videos, documentos. Para que funcione tiene que tener asignada una categoria para poder ser asignada a una pagina. Este modulo solo lo podra acceder el administrador
+- Este módulo las entradas es un tipo de contenido, en donde se pueden agregar fotografías, videos, documentos. Para que funcione tiene que tener asignada una categoría para poder ser asignada a una página. Este módulo solo lo podrá acceder el administrador
 .. figure:: CasosDeUso/Entrada.png
    :align: center
 
-
-**Caso de uso MODULO MULTIMEDIA**
+.. _ref_multimedia:
+**2. Caso de uso Modulo Multimedia**
 -------------------------------
-- En este modulo servira subir al servidor y guardar las imagenes, videos, archivos, documentos. Estas archivos se guardaran en las carpetas especificas. Este modulo solo lo podra acceder el administrador.
-
+- En este módulo servirá subir al servidor y guardar las imágenes, videos, archivos, documentos. Estas archivos se guardaran en las carpetas específicas. Este módulo solo lo podrá acceder el administrador.
 .. figure:: CasosDeUso/Multimedia.png
    :align: center
 
-**Caso de uso MODULO USUARIO**
--------------------------------
-- El administrador podra ingresar a cualquier usuario o artista que quiera ser registrado en la web. Ademas aqui es donde podran ser aceptados los nuevos usuarios registrados
-.. figure:: CasosDeUso/Usuarios.png
-   :align: center
-
-**Caso de uso MODULO ESTADISTICAS**
+.. _ref_estadisticas:
+**3. Caso de uso Modulo Estadisticas**
 -----------------------------------
-- Aqui el administrador podra filtrar las estadisticas segun sean requeridas
+- Aquí el administrador podrá filtrar las estadísticas según sean requeridas.
 .. figure:: CasosDeUso/Estadisticas.png
    :align: center
 
-**Caso de uso MODULO PAGINAS**
+.. _ref_estadisticas:
+**4. Caso de uso Modulo Paginas**
 -------------------------------
-- Este modulo sirve para crear paginas nuevas (Secciones) en las cuales se puede asignar las entradas creadas para introducir contendo nuevo.
+- Este módulo sirve para crear paginas nuevas (Secciones) en las cuales se puede asignar las entradas creadas para introducir contenido nuevo.
 .. figure:: CasosDeUso/Paginas.png
    :align: center
 
-
-**Caso de uso MODULO REGISTRO**
+.. _ref_comentario:
+**5. Caso de uso Modulo Comentarios**
 -------------------------------
-- En este modulo el usuario subira su informacion para crear su perfil y ser aceptada por el administrador.
-.. figure:: CasosDeUso/Registro.png
+- Este modulo el artista podra administrar los comentarios.
+.. figure:: CasosDeUso/Comentario.png
    :align: center
 
-**Caso de uso MODULO PERFIL**
--------------------------------
-- Este modulo se utiliza cuando el artista quiere modificar su informacion o eliminar su perfil.
-.. figure:: CasosDeUso/Perfil.png
-   :align: center
 
-**Caso de uso MODULO EVENTOS**
+**6. Caso de uso Modulo Eventos**
 -------------------------------
-- En este modulo se crearan los nuevos eventos para ser publicados en el contenido web
+- En este módulo se crearán los nuevos eventos para ser publicados en el contenido web
 .. figure:: CasosDeUso/Eventos.png
+   :align: center
+
+
+**7. Caso de uso Modulo Artista**
+-------------------------------
+- El administrador podrá ingresar a cualquier usuario o artista que quiera ser registrado en la web. Además aquí es donde podrán ser aceptados los nuevos usuarios registrados
+.. figure:: CasosDeUso/Artista.png
+   :align: center
+
+
+**8. Caso de uso Modulo usarios**
+-------------------------------
+- En este módulo el administrador podra crear mas perfiles para adminitradores.
+.. figure:: CasosDeUso/Usuarios.png
    :align: center
 
 

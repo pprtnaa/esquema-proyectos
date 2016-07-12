@@ -38,21 +38,21 @@
 .. figure:: CasosDeUso/Comentario.png
    :align: center
 
-
+.. _ref_comentario:eventos
 **6. Caso de uso Modulo Eventos**
 -------------------------------
 - En este módulo se crearán los nuevos eventos para ser publicados en el contenido web
 .. figure:: CasosDeUso/Eventos.png
    :align: center
 
-
+.. _ref_artista:
 **7. Caso de uso Modulo Artista**
 -------------------------------
 - El administrador podrá ingresar a cualquier usuario o artista que quiera ser registrado en la web. Además aquí es donde podrán ser aceptados los nuevos usuarios registrados
 .. figure:: CasosDeUso/Artista.png
    :align: center
 
-
+.. _ref_usuarios:
 **8. Caso de uso Modulo usarios**
 -------------------------------
 - En este módulo el administrador podra crear mas perfiles para adminitradores.
@@ -66,5 +66,6 @@ Diagramas de clases y de sus distintas actividades, si fuese necesario.
 
 Diagrama de BD
 --------------
-
-Diagrama de la Base de Datos que requerirá el software.
+- A continuacion esta el diseño de la base de datos:
+.. figure:: CasosDeUso/BD.png
+   :align: center

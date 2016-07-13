@@ -11,31 +11,39 @@ El proyecto consiste en sistematizar los datos para obtener información importa
 **El usuario** visitante podrá acceder a toda la información publica del sitio, podrá ver la información de los artistas dados de alta, contactarse con los perfiles de los que llamen su atención, calificar al perfil del artista, ver los eventos calendarizados, comentar sobre lo que piensa de los eventos.
 
 La aplicación podrá tener la opción de filtrar por categorías de artistas, categorías de eventos, puntuación mas alta, por fechas de eventos, entre otras.
-
+ 
 
 
 Módulos
 -------
-* **1. Entradas:** en este módulo servirá para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicación. Además, en este módulo el administrador tendrá 250 caracteres para colocar la descripción de hechos que quiera que el usuario visitante vea sobre los acontecimientos históricos. En este módulo se administran las categorías.
- Puede ver el diagrama de caso de uso :ref:`ref_entrada`
+* **Paginas:** el administrador podrá crear nuevas páginas en donde el contendido sera espeficamente las entradas creadas..
 
-* **2. Multimedia:** este servirá para tener organizadas las carpetas de imágenes, música, documentos, etc.
- Puede ver el diagrama de caso de uso :ref:`ref_multimedia`
+ :ref:`ref_paginas`
 
-* **3. Estadisticas:** aquí podrá elegir los reportes que desee ver, este módulo solo puede ser visto por el administrador como ejemplo: artista más visitado, artista más contactado, artista con menos actividad, los principales eventos, entre otros.
- Puede ver el diagrama de caso de uso :ref:`ref_estadisticas`
+* **Multimedia:** este servirá para tener organizadas las carpetas de imágenes, música, documentos, etc, el administrador podra subir la multimedia y editarla en cualquier momento por lo que siempre estara disponible.
 
-* **4. Paginas:** el administrador podrá crear nuevas páginas en donde desee publicar información nueva.
- Puede ver el diagrama de caso de uso :ref:`ref_paginas`
+ :ref:`ref_multimedia`
+ 
+* **Entradas:** en este módulo servirá para poder ingresar, eliminar o actualizar el contenido que el administrador desee publicar en la aplicación mediante un area de edicion de texto, en donde podran agregar cualquier tipo de multimedia, estas entradas se guardaran por medio de categorias, con las cuales podran crear paginas para ser publicadas en el contenido del sitio. Además, en este módulo el administrador tendrá 250 caracteres para colocar la descripción de hechos que quiera que el usuario visitante vea sobre los acontecimientos históricos. En este módulo se administran las categorías.
 
-* **5. Comentarios** en este módulo se administrarán todos los comentarios nuevos que sean publicados en cualquier perfil, evento, o entrada de la página.
- Puede ver el diagrama de caso de uso :ref:`ref_comentarios`
+ :ref:`ref_entrada`
 
-* **6.Eventos:** se podrá crear eventos con el nombre, descripción, lugar, fecha, precio y ser calendarizados, así mismo poder modificarlos o eliminarlos.
- Puede ver el diagrama de caso de uso :ref:`ref_eventos`
+* **Estadisticas:** aquí podrá elegir los reportes que desee ver, este módulo solo puede ser visto por el administrador como ejemplo: artista más visitado, artista más contactado, artista con menos actividad, los principales eventos, entre otros.
 
-* **7. Artistas:** este módulo tendrá la lista de los artistas  registrados en el sistemas, así mismo aquí podrá dar de alta a los cuales estén en lista de espera, el artista podrá manejar desde este módulo su perfil, esto quiere decir que si desea modificar información inscrita pues hacerlo aquí.
- Puede ver el diagrama de caso de uso :ref:`ref_artistas`
+ :ref:`ref_estadisticas`
 
-* **8. Usuario**: Este módulo el administrador podrá crear más cuentas administradoras del sistema, para ser accedida por otros usuarios.
-Puede ver el diagrama de caso de uso :ref:`ref_usuarios`
+* **Administracion de Comentarios** en este módulo se administrarán todos los comentarios nuevos que sean publicados en cualquier perfil, evento, o entrada de la página.
+
+ :ref:`ref_comentario`
+
+* **Eventos:** se podrá crear eventos con el nombre, descripción, lugar, fecha, precio y ser calendarizados, así mismo poder modificarlos o eliminarlos.
+
+ :ref:`ref_eventos`
+
+* **Artistas:** este módulo tendrá la lista de los artistas  registrados en el sistemas, así mismo aquí podrá dar de alta a los cuales estén en lista de espera, el artista podrá manejar desde este módulo su perfil, esto quiere decir que si desea modificar información inscrita pues hacerlo aquí.
+
+ :ref:`ref_artista`
+
+* **Usuario**: Este módulo el administrador podrá crear más cuentas administradoras del sistema, para ser accedida por otros usuarios. 
+
+ :ref:`ref_usuarios`
